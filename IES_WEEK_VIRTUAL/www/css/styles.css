@@ -1,0 +1,26 @@
+ input.boton{
+ font-size:20px;
+ font-family:Verdana,Helvetica;
+ font-weight:bold;
+ color:white;
+ background:#9B9B9B;
+ border:10px;
+ width:90px;
+ height:35px;
+ border-radius:8px;
+ }
+
+ input.enlace {
+ border:0;
+ background-color: transparent;
+ color:#ffffff;
+ cursor:pointer;
+ } 
+
+ p.azul {
+ color: blue;
+ }
+
+ p.verde {
+ color: green;
+ }
